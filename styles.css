@@ -1,6 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&display=swap');
 
+body {
+    width: 75em;
+    margin: 0 auto;
+    background-color: #ff5f0386;
+}
+
+body div{
+    background-color: white;
+    padding: 20px;
+}
 
 h1 {
     font-family: 'Montserrat', Helvetica, Arial, sans-serif;
